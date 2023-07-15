@@ -1,0 +1,4 @@
+name: TreeBreaker
+version: '${project.version}'
+main: me.kodysimpson.treebreaker.TreeBreaker
+api-version: '1.20'
