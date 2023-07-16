@@ -2,3 +2,9 @@ name: TreeBreaker
 version: '${project.version}'
 main: me.kodysimpson.treebreaker.TreeBreaker
 api-version: '1.20'
+commands:
+  treekiller:
+    description: Breaks all logs in a tree
+    usage: /<command> toggle
+    permission: treekiller.toggle
+    aliases: [tb]
